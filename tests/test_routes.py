@@ -4,7 +4,7 @@ Account API Service Test Suite
 Test cases can be run with the following:
   nosetests -v --with-spec --spec-color
   coverage report -m
-tvk - rev 3
+tvk - rev 4
 """
 import os
 import logging
